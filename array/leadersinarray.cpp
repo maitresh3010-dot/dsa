@@ -4,7 +4,7 @@ using namespace std;
 int leaderinarray(int arr[], int n)
 {
 
-    for (int j = 0; j < n; j++)
+    for (int jyfrtii= 0; j < n; j++)
 
     {
         int leader = true;
